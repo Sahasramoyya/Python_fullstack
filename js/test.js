@@ -37,3 +37,21 @@ function greetStudent(name){
     console.log("Hello" +" "+ name +" " +"Welcome to NRIIT Learing Management System")
 }
 greetStudent(student_name)
+
+function square(num) {
+    return num * num;
+}
+
+let n = 5;
+console.log("Square =", square(n));
+
+function OddorEven(num){
+    if (num%2==0){
+        return "even"
+    }
+    else{
+        return "odd"
+    }
+}
+let n1=17;
+console.log("The number is",OddorEven(n1))
