@@ -7,3 +7,4 @@ Authorization vs Authentication->Authentication tells who you are:normal login
 react-web framework for frontend development in jvascript
 flask,fastapi,django-web framework or ackend development in python
 orm-object relational mapping ,it is a technique that allows you to query and manipulate data from a database.
+. env/bin/activate
